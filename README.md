@@ -14,7 +14,7 @@ Aplicação web construída usando Django e Django Rest Framework para gerenciar
 1. Clone o repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/amandamsilva/api-gestao-pessoas.git
 
 2. Abra o Prompt de Comando e navegue até o diretório do projeto
 
