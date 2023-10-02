@@ -24,9 +24,9 @@ Aplicação web construída usando Django e Django Rest Framework para gerenciar
 3. Crie e ative um ambiente virtual (opcional):
 
    ```
-   python -m venv venv
+   python -m venv env
 
-   venv\Scripts\activate
+   env\Scripts\activate
    ```
    
 4. Instale django e django rest framework:
